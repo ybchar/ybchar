@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m Backend Developer
-- currently working on : Nestjs, Express, Typescript, Javascript
+- Currently working on : Nestjs, Express, Typescript, Javascript
 
 ✍️ I'm interested in
 - IOS
