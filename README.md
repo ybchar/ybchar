@@ -1,8 +1,5 @@
 ## Hi there, I'm yunbeom👋
 
-<b> Computer Engineering department at <a href="https://sejong.ac.kr">Sejong University</a> </b> <br/>
-<b> Backend Developer at <a href="https://topco.co.kr">Topco</a> </b>
-
 <!--
 **ybchar/ybchar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
